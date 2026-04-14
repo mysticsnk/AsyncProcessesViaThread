@@ -1,0 +1,14 @@
+bin/
+obj/
+/packages/
+.idea/
+*.iml
+*.DotSettings
+*.DotSettings.user
+/_ReSharper.Caches/
+*.suo
+*.user
+*.userosscache
+.vs/
+*.log
+out/
